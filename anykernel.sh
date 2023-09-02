@@ -14,7 +14,7 @@ device.name1=joyeuse
 device.name2=miatoll
 device.name3=curtana
 device.name4=gram
-supported.versions=11.0.12.0
+supported.versions=11.0-13.0
 '; } # end properties
 
 
